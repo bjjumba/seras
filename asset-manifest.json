@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seras/static/css/main.77edd70c.css",
+    "main.js": "/seras/static/js/main.c6de1dcc.js",
+    "index.html": "/seras/index.html",
+    "main.77edd70c.css.map": "/seras/static/css/main.77edd70c.css.map",
+    "main.c6de1dcc.js.map": "/seras/static/js/main.c6de1dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77edd70c.css",
+    "static/js/main.c6de1dcc.js"
+  ]
+}
