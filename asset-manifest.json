@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/seras/static/css/main.77edd70c.css",
-    "main.js": "/seras/static/js/main.c6de1dcc.js",
+    "main.css": "/seras/static/css/main.4054d79f.css",
+    "main.js": "/seras/static/js/main.5940e859.js",
     "index.html": "/seras/index.html",
-    "main.77edd70c.css.map": "/seras/static/css/main.77edd70c.css.map",
-    "main.c6de1dcc.js.map": "/seras/static/js/main.c6de1dcc.js.map"
+    "main.4054d79f.css.map": "/seras/static/css/main.4054d79f.css.map",
+    "main.5940e859.js.map": "/seras/static/js/main.5940e859.js.map"
   },
   "entrypoints": [
-    "static/css/main.77edd70c.css",
-    "static/js/main.c6de1dcc.js"
+    "static/css/main.4054d79f.css",
+    "static/js/main.5940e859.js"
   ]
 }
